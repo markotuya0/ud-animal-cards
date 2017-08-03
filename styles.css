@@ -1,0 +1,39 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	margin-top: 10px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.container {
+	border: 1px solid;
+	display: inline-block;
+	padding: 10px 20px 10px 20px;
+	width: 300px;
+}
+
+.info {
+	margin-top: 20px;
+	border: 1px solid gray;
+	padding: 0 10px;
+}
+
+.animal-image {
+	height: 200px;
+	width: 300px;
+}
+
+.fact {
+	font-style: italic;
+}
+
+ul {
+	list-style: none;
+	padding: 0 5px;
+}
+
+.label {
+	font-weight: bold;
+}
